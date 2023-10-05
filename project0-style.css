@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #375;
+}
+h5{
+    color: rgb(201, 34, 162);
+}
+
+table {
+    border-collapse: collapse; 
+    border: 2px solid #333; 
+}
+
+td {
+    border: 1px solid #ccc; /* Border for table header cells (th) and data cells (td) */
+    padding: 8px; /* Optional padding for cells */
+}
+
+a {
+    color: #0074d9;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
